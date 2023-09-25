@@ -1,9 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Sukhoi Su-57</h1>
 
 <div align="center">
-
- [![Discord Presence](https://lanyard.cnrad.dev/api/1111257318961709117)](https://discord.com/users/1111257318961709117)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/962200267347091467)](https://discord.com/users/962200267347091467)
 </div>
 <h3 align="center">A future discord bot developer</h3>
 

@@ -5,7 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/962200267347091467)](https://discord.com/users/962200267347091467)
 
 </div>
-<h3 align="center">A future discord bot developer</h3>
+<h3 align="center">Add me on discord :) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhoisu57&label=Profile%20views&color=0e75b6&style=flat" alt="sukhoisu57" /> </p>
 
